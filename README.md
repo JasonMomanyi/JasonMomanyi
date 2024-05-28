@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi,+I'm+@JasonMomanyi;Welcome+To+My+Github+page!)](https://git.io/typing-svg)
 
-- 👀 I’m interested in ...web app development, pentesting and CyberSecurity,android applications[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Webapp+Development,+pentesting+offensiveSec;Hacking+AndroidApplications+Coding+Anime+Vulnerabilities)](https://git.io/typing-svg)
+- 👀 I’m interested in ...[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Webapp+Development,+pentesting+offensiveSec;Hacking+AndroidApplications+Coding+Anime+Vulnerabilities)](https://git.io/typing-svg)
+- Loading.[![Typing SVG](https://readme-typing-svg.demolab.com?lines=.+.+.)](https://git.io/typing-svg)
 - 🌱 I’m currently learning JavaScript frameworks and Kotlin
 - 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs
 - 📫 How to reach me ...email@jasonmomanyi@outlook.com
