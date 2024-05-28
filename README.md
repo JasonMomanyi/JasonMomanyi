@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JasonMomanyi
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi,+I'm+@JasonMomanyi;Welcome+To+My+Github+page!)](https://git.io/typing-svg)
+
 - 👀 I’m interested in ...web app development, pentesting and CyberSecurity,android applications
 - 🌱 I’m currently learning JavaScript frameworks and Kotlin
 - 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs
