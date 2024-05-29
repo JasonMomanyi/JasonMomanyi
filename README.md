@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> hi, user
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi,+I'm+@JasonMomanyi;Welcome+To+My+Github+page!)](https://git.io/typing-svg)
 - 👀 I’m interested in ...
