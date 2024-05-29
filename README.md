@@ -65,9 +65,6 @@ I’m interested in ...
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Parrot_Logo.png/480px-Parrot_Logo.png" alt="parrotOs" width="40" height="40"/> 
 </a>
 
-<a href="https://www.msi.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/M/msi-logo-40C7F5AA0E-seeklogo.com.png" alt="msi" width="40" height="40"/> 
-</a>
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
@@ -85,21 +82,8 @@ I’m interested in ...
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
 
-<a href="https://www.krafton.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/krafton/krafton-icon.svg" alt="krafton" width="40" height="40"/> 
-</a>
 
-<a href="https://www.microsoft.com/en-us/copilot" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/GitHub_octocat.png" alt="copilot" width="40" height="40"/> 
-</a>
 
-<a href="https://www.bing.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Bing_logo_2015.svg" alt="bing" width="40" height="40"/> 
-</a>
-
-<a href="https://www.torproject.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tor_logo_2011-flat.svg" alt="tor" width="40" height="40"/> 
-</a>
 
 
 
