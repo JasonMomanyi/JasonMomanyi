@@ -18,8 +18,7 @@ I’m interested in ...
 
 ##My Area of Interests##
 
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
     </a>
@@ -64,8 +63,6 @@ I’m interested in ...
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a>
 </div>
-
-
 
 
 
