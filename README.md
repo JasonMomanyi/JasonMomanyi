@@ -1,7 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> hi, user
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi,+I'm+@JasonMomanyi;Welcome+To+My+Github+page!)](https://git.io/typing-svg)
-- 👀 I’m interested in ...
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d4YXM3cGwyMjAwM2V6YjYxOGFxbGRzZG95YzVnYXlrY3dnb20wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VDNDX5BhKKz0YsJkl0/giphy.webp" width="35"></h1>
+I’m interested in ...
 - [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Webapp+Development,+pentesting+offensiveSec;Hacking+AndroidApplications+Coding+Anime+Vulnerabilities)](https://git.io/typing-svg)
 - Loading.
 - [![Typing SVG](https://readme-typing-svg.demolab.com?lines=.+.+.)](https://git.io/typing-svg)
