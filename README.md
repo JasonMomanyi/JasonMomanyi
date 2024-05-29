@@ -6,6 +6,7 @@ I’m interested in ...
 - [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Webapp+Development,+pentesting+offensiveSec;Hacking+AndroidApplications+Coding+Anime+Vulnerabilities)](https://git.io/typing-svg)
 - Loading.
 - [![Typing SVG](https://readme-typing-svg.demolab.com?lines=.+.+.)](https://git.io/typing-svg)
+- [![Profile views](https://komarev.com/ghpvc/?username=JasonMomanyi&label=Profile%20views)](https://github.com/JasonMomanyi)
 - 🌱 I’m currently learning JavaScript frameworks and Kotlin
 - 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs
 - 📫 How to reach me ...email@jasonmomanyi@outlook.com
