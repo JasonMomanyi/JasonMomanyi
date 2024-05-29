@@ -16,8 +16,7 @@ I’m interested in ...
 
 
 
-##My Area of Interests:
-
+My Area of Interests:
 <div style="display: flex; justify-content: center;">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
@@ -67,6 +66,8 @@ I’m interested in ...
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
 </div>
+
+
 
 
 <!---
