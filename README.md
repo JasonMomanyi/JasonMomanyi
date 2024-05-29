@@ -40,10 +40,9 @@ I’m interested in ...
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 
-<a href="https://www.iso.org/sql" target="_blank" rel="noreferrer"> 
-  <!-- Assuming "any database system" would include SQL -->
-  <img src="https://image.flaticon.com/icons/png/512/29/29572.png" alt="database" width="40" height="40"/> 
-</a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+ 
+ </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -57,26 +56,13 @@ I’m interested in ...
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
 
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original-wordmark.svg" alt="kali" width="40" height="40"/> 
-</a>
-
-<a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Parrot_Logo.png/480px-Parrot_Logo.png" alt="parrotOs" width="40" height="40"/> 
-</a>
 
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </a>
 
-<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="unreal engine" width="40" height="40"/> 
-</a>
 
-<a href="https://openai.com/gpt" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GPT-3_logo.png/1200px-GPT-3_logo.png" alt="gpt" width="40" height="40"/> 
-</a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
