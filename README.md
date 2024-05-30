@@ -8,8 +8,9 @@ I’m interested in ...
 - [![Typing SVG](https://readme-typing-svg.demolab.com?lines=.+.+.)](https://git.io/typing-svg)
 - [![Profile views](https://komarev.com/ghpvc/?username=JasonMomanyi&label=Profile%20views)](https://github.com/JasonMomanyi)
 - 🌱 I’m currently learning JavaScript frameworks and Kotlin
-- 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs
--📫 How to reach me ...
+- 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs.
+
+- 📫 How to reach me ...
 
 - [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799884226)
 - [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+254799884226)
