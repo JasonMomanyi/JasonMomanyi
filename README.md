@@ -161,6 +161,16 @@ I’m interested in ...
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       <br>Node.js
     </td>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="AndroidStudio" />
+      <br>AndroidStudio
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+      <br>Bash
+    </td>
+    </td>
   </tr>
 </table>
 
