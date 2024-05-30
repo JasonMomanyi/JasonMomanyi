@@ -64,12 +64,12 @@ I’m interested in ...
     <td align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0aTRhNTR3ODZhb3Z6ZTNlMW04cTR4b3drNHhsdmY4dzV3aWxycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UeKTU8KUM2ju/giphy.webp" width="300">
       <br>
-      <p>Development 1</p>
+      <p>DEAL WITH IT!!</p>
     </td>
     <td align="center">
       <img src="https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47sbcsuytj8h5hkn2f1btamvt44hspxch54yc7sml7&rid=giphy.gif" width="300">
       <br>
-      <p>Development 2</p>
+      <p>Its Not a Bug, Its a Feature!</p>
     </td>
   </tr>
 </table>
