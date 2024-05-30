@@ -9,10 +9,12 @@ I’m interested in ...
 - [![Profile views](https://komarev.com/ghpvc/?username=JasonMomanyi&label=Profile%20views)](https://github.com/JasonMomanyi)
 - 🌱 I’m currently learning JavaScript frameworks and Kotlin
 - 💞️ I’m looking to collaborate on development of advanced WhatsApp bots in JavaScript() and random code stuffs
-- 📫 How to reach me ...
--                    [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799884226)
--                    [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+254799884226)
-                    [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](https://jasonmomanyi@outlook.com) 
+-📫 How to reach me ...
+
+- [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799884226)
+- [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+254799884226)
+- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://jasonmomanyi@outlook.com)
+
 - ⚡ 永远不要鄙视任何人，没有人是有限的
  
 ![Development 1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0aTRhNTR3ODZhb3Z6ZTNlMW04cTR4b3drNHhsdmY4dzV3aWxycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UeKTU8KUM2ju/giphy.webp) ![Development 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTloYng4M2ZzaTBqeHc1MjFibTFpb2M2MTE1NzduMXp2bTIyZ2h2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11NWkdLdD1MAkE/giphy.webp)
