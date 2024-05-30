@@ -158,7 +158,7 @@ I’m interested in ...
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://nodejs.org/" target="_blank" rel="noreferrer" width="65" height="65" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=all" width="65" height="65" alt="Node.js" />
       <br>Node.js
     </td>
   </tr>
