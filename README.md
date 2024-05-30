@@ -2,15 +2,17 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+User!+👋;+!+!;"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+User!+👋;+.+.+.;"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=JasonMomanyi&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="JASON.COD34"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=JasonMomanyi- &8=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=JasonMomanyi&8=followers,repositories,stars,commits&theme=viridescent"/>
+    </td>
     <td>
       <img alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTloYng4M2ZzaTBqeHc1MjFibTFpb2M2MTE1NzduMXp2bTIyZ2h2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11NWkdLdD1MAkE/giphy.webp">
    </td>  
  </tr>  
 </table>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi,+I'm+@JasonMomanyi;Welcome+To+My+Github+page!)](https://git.io/typing-svg)
 - <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d4YXM3cGwyMjAwM2V6YjYxOGFxbGRzZG95YzVnYXlrY3dnb20wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VDNDX5BhKKz0YsJkl0/giphy.webp" width="35"></h1>
