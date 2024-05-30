@@ -146,19 +146,19 @@ I’m interested in ...
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="65" height="65" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="65" height="65" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" width="65" height="65" alt="Kotlin" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=all" width="65" height="65" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       <br>Node.js
     </td>
   </tr>
