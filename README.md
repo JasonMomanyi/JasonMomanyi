@@ -29,6 +29,34 @@ I’m interested in ...
 - [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799884226)
 - [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+254799884226)
 - [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://jasonmomanyi@outlook.com)
+- <div align="center">
+  <a href="https://t.me/ANONYMOUS_CYBER07">
+    <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com">
+    <img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.gg/th3_u7p4l">
+    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/c/UtpalCoding">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://twitter.com/umo_xr">
+    <img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://instagram.com/anon___stranger">
+    <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p>
+
 
 - ⚡ 永远不要鄙视任何人，没有人是有限的
  
