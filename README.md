@@ -213,8 +213,8 @@ I’m interested in ...
 <table>
   <tr>
    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=microsoft" width="65" height="65" alt="Microsoft" />
-      <br>Microsoft
+      <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Microsoft" />
+      <br>MicrosoftWindows
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
