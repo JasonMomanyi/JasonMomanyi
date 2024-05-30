@@ -192,7 +192,7 @@ I’m interested in ...
 </p>
 
 
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Softwares ⚙️
+ ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNjajE0NzV6anprZ2RqanFvejRiOGxiazB4eGJ5bXhyMW9tbDdmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B2HpiTmvqxaXnkCDSO/giphy.webp" width = 32px>Operating Systems ⚙️
 
 >operating systems i have worked with
 
