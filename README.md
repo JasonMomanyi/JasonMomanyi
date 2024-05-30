@@ -211,7 +211,7 @@ I’m interested in ...
       <br>KaliLinux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=archlinux" width="65" height="65" alt="ArchLinux" />
+      <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="ArchLinux" />
       <br>ArchLinux
     </td>
     <td align="center" width="96">
