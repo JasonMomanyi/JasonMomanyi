@@ -171,6 +171,19 @@ I’m interested in ...
       <br>Bash
     </td>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
   </tr>
 </table>
 
