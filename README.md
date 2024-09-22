@@ -46,7 +46,7 @@ I’m interested in ...
   <a href="https://twitter.com/jasonorandi">
     <img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://instagram.com/b.4_bloody">
+  <a href="https://instagram.com/lord_stunnis">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
