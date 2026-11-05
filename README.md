@@ -24,30 +24,30 @@ I’m interested in ...
 
 - 📫 How to reach me ...
 
-- [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799884226)
+- [![Hacker Typer](https://img.shields.io/badge/Hacker_Typer-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackertyper.net)
 - [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/+254799884226)
-- [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://jasonmomanyi@outlook.com)
+- [![The Useless Web](https://img.shields.io/badge/The_Useless_Web-6C3483?style=for-the-badge&logo=ghost&logoColor=white)](https://theuselessweb.com)
 - <div align="center">
   <a href="https://t.me/+254747463828">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=orandijasons@gmail.com">
-    <img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://pointerpointer.com">
+    <img title="Pointer Pointer" src="https://img.shields.io/badge/Pointer_Pointer-1ABC9C?style=for-the-badge&logo=tor&logoColor=white">
   </a>
-  <a href="https://discord.gg/x8_jason">
+  <a href="https://discord.com/users/1092210946547654730">
     <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/jason.Orandi">
-    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://zombo.com">
+    <img alt="Zombo" title="Zombo" src="https://img.shields.io/badge/-Zombo-F39C12?style=for-the-badge&logo=dogecoin&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/jasonorandi">
-    <img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://cat-bounce.com">
+    <img title="Cat Bounce" src="https://img.shields.io/badge/Cat_Bounce-E91E63?style=for-the-badge&logo=kofi&logoColor=white">
   </a>
-  <a href="https://instagram.com/lord_stunnis">
-    <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://staggeringbeauty.com">
+    <img title="Staggering Beauty" src="https://img.shields.io/badge/Staggering_Beauty-27AE60?style=for-the-badge&logo=buymeacoffee&logoColor=white">
   </a>
 </div>
 
@@ -75,7 +75,7 @@ I’m interested in ...
 </table>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Softwares ⚙️
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Tech Stack ⚙️
 
 > Tools and technologies that I have worked with and I'm interested in
 
