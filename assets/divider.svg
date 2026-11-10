@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">A glowing line with a light streak travelling along it.</desc>
+<defs>
+<linearGradient id="lg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#22E4FF" stop-opacity="0"/><stop offset=".25" stop-color="#22E4FF"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset=".8" stop-color="#FF4D8D"/><stop offset="1" stop-color="#FF4D8D" stop-opacity="0"/></linearGradient>
+<linearGradient id="c1" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="c2" x1="1" x2="0"><stop offset="0" stop-color="#FF4D8D" stop-opacity="0"/><stop offset="1" stop-color="#FFB454"/></linearGradient>
+</defs>
+<style>
+.dm{transform-box:fill-box;transform-origin:center}
+@media (prefers-reduced-motion:no-preference){
+.c1{animation:m1 5.5s linear infinite}.c2{animation:m2 7.5s linear infinite}.dm{animation:pl 2.4s ease-in-out infinite}
+@keyframes m1{to{transform:translateX(1400px)}}
+@keyframes m2{to{transform:translateX(-1400px)}}
+@keyframes pl{0%,100%{transform:scale(1)}50%{transform:scale(1.5)}}
+}
+</style>
+<line x1="0" y1="14" x2="1200" y2="14" stroke="url(#lg)" stroke-width="2"/><rect class="c1" x="-180" y="12.5" width="180" height="3" rx="1.5" fill="url(#c1)"/><rect class="c2" x="1200" y="12.5" width="180" height="3" rx="1.5" fill="url(#c2)"/><path class="dm" d="M600 5L609 14L600 23L591 14Z" fill="#FF4D8D"/><path d="M570 14L564 10V18ZM630 14L636 10V18Z" fill="#22E4FF"/>
+</svg>
